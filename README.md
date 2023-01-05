@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Lukkylukas
-- 👀 I’m interested in coding and the world cup
+- 👋 Hi, I’m @Lukkyluka
 - 🌱 I’m currently learning coding with arduino
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me dont unless your touma
